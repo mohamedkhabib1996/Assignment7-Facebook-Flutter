@@ -1,0 +1,11 @@
+{
+  "name": "Facebook Task",
+  "short_name": "Facebook Task",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F0F2F5",
+  "theme_color": "#0866FF",
+  "description": "Facebook-inspired Flutter UI demo",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
